@@ -1,0 +1,15 @@
+C:\Users\leona\Documentos\Dev\GitHub\Curso_POO_Csharp\OPP\ConsoleApp1\bin\Debug\net8.0\OOP.exe
+C:\Users\leona\Documentos\Dev\GitHub\Curso_POO_Csharp\OPP\ConsoleApp1\bin\Debug\net8.0\OOP.deps.json
+C:\Users\leona\Documentos\Dev\GitHub\Curso_POO_Csharp\OPP\ConsoleApp1\bin\Debug\net8.0\OOP.runtimeconfig.json
+C:\Users\leona\Documentos\Dev\GitHub\Curso_POO_Csharp\OPP\ConsoleApp1\bin\Debug\net8.0\OOP.dll
+C:\Users\leona\Documentos\Dev\GitHub\Curso_POO_Csharp\OPP\ConsoleApp1\bin\Debug\net8.0\OOP.pdb
+C:\Users\leona\Documentos\Dev\GitHub\Curso_POO_Csharp\OPP\ConsoleApp1\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Documentos\Dev\GitHub\Curso_POO_Csharp\OPP\ConsoleApp1\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\Users\leona\Documentos\Dev\GitHub\Curso_POO_Csharp\OPP\ConsoleApp1\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\Users\leona\Documentos\Dev\GitHub\Curso_POO_Csharp\OPP\ConsoleApp1\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documentos\Dev\GitHub\Curso_POO_Csharp\OPP\ConsoleApp1\obj\Debug\net8.0\OOP.sourcelink.json
+C:\Users\leona\Documentos\Dev\GitHub\Curso_POO_Csharp\OPP\ConsoleApp1\obj\Debug\net8.0\OOP.dll
+C:\Users\leona\Documentos\Dev\GitHub\Curso_POO_Csharp\OPP\ConsoleApp1\obj\Debug\net8.0\refint\OOP.dll
+C:\Users\leona\Documentos\Dev\GitHub\Curso_POO_Csharp\OPP\ConsoleApp1\obj\Debug\net8.0\OOP.pdb
+C:\Users\leona\Documentos\Dev\GitHub\Curso_POO_Csharp\OPP\ConsoleApp1\obj\Debug\net8.0\OOP.genruntimeconfig.cache
+C:\Users\leona\Documentos\Dev\GitHub\Curso_POO_Csharp\OPP\ConsoleApp1\obj\Debug\net8.0\ref\OOP.dll
