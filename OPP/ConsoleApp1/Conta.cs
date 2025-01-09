@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP
 {
-    public class Conta
+    public abstract class Conta: IConta
     {
        
         public Conta( int numero, double limite) { 
@@ -15,7 +15,7 @@ namespace OOP
             Conta.TotalDeContasCriadas++;
         
         }
-        private double Saldo { get; set; }
+        protected double Saldo { get; set; }
         public double Limite { get; private set; }
         public int Numero { get; private set; }
         public static int TotalDeContasCriadas { get; set; } 
@@ -27,8 +27,9 @@ namespace OOP
         public void Deposita(double valor)
         {
             this.Saldo += valor;
+          
         }
-        public bool Saca(double valor)
+        public virtual bool Saca(double valor)
         {
             double saldoDisponivel = this.ConsultaSaldoDisponivel();
 

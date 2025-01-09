@@ -7,16 +7,48 @@
       "RelativeMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|c:\\users\\leona\\documentos\\dev\\github\\curso_poo_csharp\\opp\\consoleapp1\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|c:\\users\\leona\\documentos\\dev\\github\\curso_poo_csharp\\opp\\consoleapp1\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|c:\\users\\leona\\documentos\\dev\\github\\curso_poo_csharp\\opp\\consoleapp1\\gerentedeagencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\gerentedeagencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|c:\\users\\leona\\documentos\\dev\\github\\curso_poo_csharp\\opp\\consoleapp1\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\contapoupanca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|c:\\users\\leona\\documentos\\dev\\github\\curso_poo_csharp\\opp\\consoleapp1\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|c:\\users\\leona\\documentos\\dev\\github\\curso_poo_csharp\\opp\\consoleapp1\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|c:\\users\\leona\\documentos\\dev\\github\\curso_poo_csharp\\opp\\consoleapp1\\analistadeti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\analistadeti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|c:\\users\\leona\\documentos\\dev\\github\\curso_poo_csharp\\opp\\consoleapp1\\cartaodecredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\cartaodecredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|c:\\users\\leona\\documentos\\dev\\github\\curso_poo_csharp\\opp\\consoleapp1\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|c:\\users\\leona\\documentos\\dev\\github\\curso_poo_csharp\\opp\\consoleapp1\\gerentedeti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\gerentedeti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|c:\\users\\leona\\documentos\\dev\\github\\curso_poo_csharp\\opp\\consoleapp1\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|c:\\users\\leona\\documentos\\dev\\github\\curso_poo_csharp\\opp\\consoleapp1\\iconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|solutionrelative:consoleapp1\\iconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{085D069E-6378-446F-A028-95E607B5CD77}|ConsoleApp1\\OOP.csproj|c:\\users\\leona\\documentos\\dev\\github\\curso_poo_csharp\\opp\\consoleapp1\\oop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +70,71 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartaoDeCredito.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\CartaoDeCredito.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\CartaoDeCredito.cs",
-              "ToolTip": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\CartaoDeCredito.cs",
-              "RelativeToolTip": "ConsoleApp1\\CartaoDeCredito.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GerenteDeAgencia.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\GerenteDeAgencia.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GerenteDeAgencia.cs",
+              "ToolTip": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\GerenteDeAgencia.cs",
+              "RelativeToolTip": "ConsoleApp1\\GerenteDeAgencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T02:13:27.022Z",
+              "WhenOpened": "2025-01-07T05:12:26.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "AnalistaDeTi.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\AnalistaDeTi.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\AnalistaDeTi.cs",
+              "ToolTip": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\AnalistaDeTi.cs",
+              "RelativeToolTip": "ConsoleApp1\\AnalistaDeTi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:10:54.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\Gerente.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Gerente.cs",
+              "ToolTip": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\Gerente.cs",
+              "RelativeToolTip": "ConsoleApp1\\Gerente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:08:01.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\Funcionario.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\Funcionario.cs",
+              "RelativeToolTip": "ConsoleApp1\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:03:20.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContaPoupanca.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\ContaPoupanca.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ContaPoupanca.cs",
+              "ToolTip": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\ContaPoupanca.cs",
+              "RelativeToolTip": "ConsoleApp1\\ContaPoupanca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T03:48:57.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\Cliente.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Cliente.cs",
@@ -64,20 +147,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Conta.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\Conta.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Conta.cs",
-              "ToolTip": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\Conta.cs",
-              "RelativeToolTip": "ConsoleApp1\\Conta.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T19:49:54.275Z",
+              "WhenOpened": "2025-01-04T19:45:41.941Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "GerenteDeTi.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\GerenteDeTi.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GerenteDeTi.cs",
+              "ToolTip": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\GerenteDeTi.cs",
+              "RelativeToolTip": "ConsoleApp1\\GerenteDeTi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:14:13.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "OOP.csproj",
               "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\OOP.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1\\OOP.csproj",
@@ -85,21 +180,58 @@
               "RelativeToolTip": "ConsoleApp1\\OOP.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-04T19:48:52.605Z",
+              "WhenOpened": "2025-01-04T19:48:52.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\Conta.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Conta.cs",
+              "ToolTip": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\Conta.cs",
+              "RelativeToolTip": "ConsoleApp1\\Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T19:49:54.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\Program.cs*",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "CartaoDeCredito.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\CartaoDeCredito.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\CartaoDeCredito.cs",
+              "ToolTip": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\CartaoDeCredito.cs",
+              "RelativeToolTip": "ConsoleApp1\\CartaoDeCredito.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T19:45:41.941Z",
+              "WhenOpened": "2025-01-05T02:13:27.022Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContaCorrente.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\ContaCorrente.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ContaCorrente.cs",
+              "ToolTip": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\ContaCorrente.cs",
+              "RelativeToolTip": "ConsoleApp1\\ContaCorrente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:55:31.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IConta.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\IConta.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IConta.cs",
+              "ToolTip": "C:\\Users\\leona\\Documentos\\Dev\\GitHub\\Curso_POO_Csharp\\OPP\\ConsoleApp1\\IConta.cs",
+              "RelativeToolTip": "ConsoleApp1\\IConta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:34:53.106Z"
             }
           ]
         }
